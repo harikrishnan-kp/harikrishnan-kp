@@ -1,6 +1,5 @@
 - 👋 Hi, I’m harikrishnan
 - 👀 Interested in IoT technologies
-- 🌱 I’m currently learning 
 - 📫 Reach me - harikrishnankp14@gmail.com
 
 <!---
