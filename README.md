@@ -1,5 +1,6 @@
 - 👋 Hi, I’m harikrishnan
-- 👀 Interested in IoT technologies, python and C programming.
+- 👀 Interested in IoT technologies
+- Learning python and C programming
 - 📫 Reach me - harikrishnankp14@gmail.com
 
 <!---
