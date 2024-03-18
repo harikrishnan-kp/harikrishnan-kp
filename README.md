@@ -1,6 +1,7 @@
 - 👋 Hi, I’m harikrishnan
 - Interested in IoT technologies
 - Learning python and C programming
+- harikrishnankp14@gmail.com
 
 [<img src="pics/gmail.png" width="25">](harikrishnankp14@gmail.com) [<img src="https://static-00.iconduck.com/assets.00/linkedin-color-icon-256x256-ia566k6a.png" width="25">](https://www.linkedin.com/in/hari-Krishnan-b62a0a172)
 
