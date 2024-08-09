@@ -1,5 +1,5 @@
 - <img src="pics/wave.gif" width="20px" height="20px"> Hello! I’m harikrishnan
-- Interested in IoT technologies
+- Interested in embedded systems and IoT technologies
 - Learning python and C programming
 - harikrishnankp14@gmail.com
 
