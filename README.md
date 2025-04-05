@@ -1,5 +1,5 @@
 - <img src="pics/wave.gif" width="20px" height="20px"> Hello! I’m harikrishnan
-- Interested in Embedded systems and IoT
+- Interested in Embedded systems, Robotics and IoT 
 - Reach me: harikrishnankp14@gmail.com
 
 ## 🌐 Socials
