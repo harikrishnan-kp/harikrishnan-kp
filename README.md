@@ -4,7 +4,7 @@
 
 ## Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-Krishnan-b62a0a172)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikrishnan-kp-b62a0a172/)
 
 ## Tech Stack
 <img src="pics/letter-c.png" width="40"> <img src="pics/python.png" width="40"> <img src="https://i0.wp.com/www.recantha.co.uk/blog/wp-content/uploads/2016/07/arm_powered-1.jpg?resize=300%2C300&ssl=1" width="38"> <img src="https://styles.redditmedia.com/t5_37y9z/styles/communityIcon_m13ws7gvqfx31.png" height="38"> <img src="pics/linux1.png" width="33"> <img src="pics/ros2.png" height="38"> <img src="pics/gz2.png" height="45"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="40"> <img src="pics/Git.png" width="40"> <img src="pics/github.png" width="40"> <img src="pics/raspberry-pi.png" width="40"> <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="40">  <img src="https://play-lh.googleusercontent.com/yAS9WJJnjlCx77RxIvJSssrixhCdUxnBlM3CuPnQpl8QI3Ez19KreBL4xREc1gtmK_Y" width="40"> <img src="https://www.niagaramarketplace.com/media/catalog/product/cache/8272e5d606ba848a87db29108f4efa34/m/a/marketplace_icons_13_.png" width="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" width="40"> <img src="https://www.semtech.com/uploads/company/company-logo-lora.png" width="60"> 
